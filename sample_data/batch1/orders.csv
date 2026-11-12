@@ -1,0 +1,11 @@
+order_id,tenant_id,customer_id,product,quantity,unit_price,order_date,status
+O1001,acme,C001,Widget,2,50.00,2026-01-05,completed
+O1002,acme,C002,Gadget,1,120.00,2026-01-12,completed
+O1003,acme,C003,Widget,5,50.00,2026-01-20,completed
+O1004,acme,C001,Gizmo,3,30.00,2026-02-03,completed
+O1005,acme,C004,Gadget,2,120.00,2026-02-14,completed
+O1006,northwind,C006,Widget,4,50.00,2026-01-08,completed
+O1007,northwind,C007,Gizmo,2,30.00,2026-01-15,completed
+O1008,northwind,C008,Gadget,1,120.00,2026-02-02,completed
+O1009,northwind,C009,Widget,1,50.00,2026-02-09,completed
+O1010,northwind,C010,Gizmo,6,30.00,2026-02-18,completed
