@@ -1,0 +1,11 @@
+customer_id,tenant_id,name,email,city,tier,updated_at
+C001,acme,Alice Johnson,alice@example.com,New York,Premium,2025-12-20
+C002,acme,Bob Smith,bob@example.com,Austin,Standard,2025-12-21
+C003,acme,Carol White,carol@example.com,Chicago,Standard,2025-12-21
+C004,acme,David Brown,david@example.com,Seattle,Premium,2025-12-22
+C005,acme,Emma Davis,emma@example.com,Miami,Standard,2025-12-22
+C006,northwind,Frank Miller,frank@example.com,Boston,Standard,2025-12-20
+C007,northwind,Grace Lee,grace@example.com,Denver,Standard,2025-12-21
+C008,northwind,Henry Wilson,henry@example.com,Portland,Premium,2025-12-23
+C009,northwind,Ivy Chen,ivy@example.com,San Jose,Standard,2025-12-23
+C010,northwind,Jack Taylor,jack@example.com,Atlanta,Standard,2025-12-24
