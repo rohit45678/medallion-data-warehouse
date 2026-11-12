@@ -1,0 +1,6 @@
+op,order_id,tenant_id,customer_id,product,quantity,unit_price,order_date,status
+U,O1004,acme,C001,Gizmo,3,30.00,2026-02-03,cancelled
+I,O1011,acme,C011,Gadget,1,120.00,2026-03-02,completed
+I,O1012,acme,C002,Widget,3,50.00,2026-03-05,completed
+I,O1013,northwind,C007,Widget,2,50.00,2026-03-04,completed
+I,O1014,northwind,C010,Gadget,2,120.00,2026-03-09,completed
