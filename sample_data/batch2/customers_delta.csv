@@ -1,0 +1,5 @@
+op,customer_id,tenant_id,name,email,city,tier,updated_at
+U,C002,acme,Bob Smith,bob@example.com,Denver,Standard,2026-02-10
+U,C007,northwind,Grace Lee,grace@example.com,Denver,Premium,2026-02-11
+D,C009,northwind,Ivy Chen,ivy@example.com,San Jose,Standard,2026-02-12
+I,C011,acme,Karen Adams,karen@example.com,Phoenix,Premium,2026-02-12
